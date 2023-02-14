@@ -11,4 +11,5 @@ def Calculator(a,b,method):
         result = a * b
         print(result)
         return result 
+    print("Check the diff")
     print("This is a Calculator(Fake)")
